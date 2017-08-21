@@ -9,7 +9,7 @@ import javax.persistence.Version;
 public class Student 
 {
 	@Id
-	@Column(name = "sId",length = 5)
+	@Column(name = "sId",length = 10)
 	private int studentId;
 	
 	@Column(length=10,name="sName")

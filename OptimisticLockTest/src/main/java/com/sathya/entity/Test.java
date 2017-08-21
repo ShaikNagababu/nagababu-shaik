@@ -13,6 +13,7 @@ import com.sathya.util.HibernateUtil;
 public class Test 
 {
 	private static SessionFactory factory;
+	//comment is added to test github
 	
 	public static void main(String[] args)
 	{
